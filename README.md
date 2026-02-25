@@ -1,1 +1,1 @@
-# BMTP-LAB7-Язан
+# BMTP-LAB7-Yazan
